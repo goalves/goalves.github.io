@@ -16,7 +16,7 @@ picture: assets/images/profile.jpg
 # resume-external: true
 # resume-url: https://google.com/?q=my+resume
 
-url: http://g04lves.github.io
+url: http://goalves.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -42,7 +42,7 @@ instagram: g04lves
 linkedin: goalves
 # youtube: myyoutube
 spotify: dok1e
-github: g04lves
+github: goalves
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -53,13 +53,13 @@ github: g04lves
 # lanyrd: mylanyrd
 email: g04lves@gmail.com
 
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+# authors:
+#     johndoe:
+#         name: John Doe
+#         bio: A Man who travels the world eating noodles
+#         external-image: false
+#         picture: assets/images/profile.jpg
+#         twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
